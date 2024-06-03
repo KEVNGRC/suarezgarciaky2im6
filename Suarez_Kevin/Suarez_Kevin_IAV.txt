@@ -1,0 +1,84 @@
+<html>
+ <head>
+  <title>PELICULA O SERIE</title>
+ </head>
+<body background="tgm.jpg" text="RED">
+<center><h1><b>TOP GUN MAVERICK</b></h1></p>
+
+<embed src="playboi carti - new n3on.mp3" autostart=true>
+<center><embed src="f16 taxi.mp4" autostart="true"></center>
+
+<ul type="square"><br>
+  <li><b><br>
+         <marquee behavior="alternate" bgcolor="I7I7I7" scrollamount="15">CONOCE MAS SOBRE LA PELICULA </marquee></li><br><br>
+
+</ul>
+
+
+
+<p align=justify><img src="IMG2.jpg" align=right width=20% size="10" color="pink">
+"Top Gun" es una película estadounidense de acción y drama dirigida por Tony Scott y estrenada en 1986. La trama se centra en Pete "Maverick" Mitchell, interpretado por Tom Cruise, un talentoso piloto de caza de la Marina de los Estados Unidos que asiste a la Escuela de Armas de la Marina de los Estados Unidos, conocida como "Top Gun", donde compite por ser el mejor piloto de combate. La rivalidad, la camaradería y el peligro se entrelazan mientras Maverick y sus compañeros pilotos enfrentan desafíos tanto en el aire como en tierra, mientras luchan por alcanzar la excelencia y superar sus propios límites. La película es conocida por sus emocionantes secuencias de vuelo, su banda sonora icónica y su retrato del mundo de los pilotos de caza naval..<br> </p>
+
+<ol style="font-size: 18px; color: blue;" ALIGN="LEFT">
+  <li>Maverick - Piloto protagonista interpretado por Tom Cruise.</li>
+  <li>Goose - Copiloto y mejor amigo de Maverick.</li>
+  <li>Iceman - Rival de Maverick en la escuela de vuelo.</li>
+  <li>Charlie - Instructora de vuelo interpretada por Kelly McGillis.</li>
+  <li>Viper - Instructor jefe de la escuela de vuelo.</li>
+  <li>Hollywood - Otro piloto compañero de Maverick y Goose.</li>
+  <li>Slider - Piloto amigo de Maverick.</li>
+  <li>Stinger - Comandante de la escuela de vuelo.</li>
+  <li>Jester - Instructor de vuelo enemigo de Maverick e Iceman.</li>
+  <li>Wolfman - Piloto compañero de Maverick.</li>
+  <li>Cougar - Piloto que se retira al comienzo de la película.</li>
+  <li>Mongo - Piloto que se retira al comienzo de la película.</li>
+  <li>Magic - Controlador de vuelo.</li>
+  <li>Rio - Oficial de radar y navegación en los aviones.</li>
+  <li>Stinger - Comandante de la escuela de vuelo.</li>
+  <li>Voodoo - Piloto de la escuela de vuelo.</li>
+  <li>Slider - Piloto amigo de Maverick.</li>
+  <li>Merlin - Piloto de la escuela de vuelo.</li>
+  <li>Sundown - Piloto de la escuela de vuelo.</li>
+  <li>Chipper - Piloto de la escuela de vuelo.</li>
+</ol>
+
+
+
+<center><p align=justify><img src="img3.jpg" width=50%size="12" color="blue"></p></center>
+
+<ul style="font-size: 16px; color: green;" ALIGN=LEFT>
+  <li>Tom - Nombre comúnmente utilizado en inglés.</li>
+  <li>Apple - Fruta comestible.</li>
+  <li>Chair - Objeto para sentarse.</li>
+  <li>Car - Vehículo de transporte.</li>
+  <li>Mountain - Gran elevación de tierra.</li>
+  <li>Book - Objeto para leer.</li>
+  <li>Sun - Estrella que ilumina el sistema solar.</li>
+  <li>Computer - Dispositivo electrónico.</li>
+  <li>Shoes - Calzado para los pies.</li>
+  <li>Tree - Planta de gran tamaño con tronco de madera.</li>
+  <li>Ocean - Gran masa de agua salada.</li>
+  <li>Pen - Instrumento de escritura.</li>
+  <li>Phone - Dispositivo de comunicación.</li>
+  <li>Chair - Objeto para sentarse.</li>
+  <li>Coffee - Bebida caliente.</li>
+  <li>Window - Abertura en una pared para permitir la entrada de luz.</li>
+  <li>Dog - Animal doméstico.</li>
+  <li>Camera - Dispositivo para capturar imágenes.</li>
+  <li>Music - Arte de combinar sonidos en una secuencia temporal.</li>
+  <li>Table - Mueble para colocar objetos.</li>
+</ul>
+
+<p align=justify><img src="img1.jpg" align=right width=40%></p>
+
+
+ <ul type="square"><br>
+  <li><b><br>
+         <marquee behavior="alternate" bgcolor="O9O9O9" scrollamount="20">DATOS DEL ALUMNO</marquee></li><br><br>
+
+</ul>
+
+
+</body>
+</html>
+<hr size="10" color="blue"> SUAREZ GARCIA KEVIN YAMIL 2IM6
